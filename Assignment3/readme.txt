@@ -1,0 +1,1 @@
+if there is only 1 process in priority queue 0, it starts running; and if type command Q, its time quantum will expire and it will reach priority queue again. however it will re-run without giving chance to processes in priority queue 1 or 2.
